@@ -1,0 +1,17 @@
+.header-area {
+  background-color: rgba(198, 241, 155, 0.658);
+}
+nav {
+  padding: 20px 0px;
+}
+nav p {
+  display: inline;
+  padding-right: 10px;
+  color: rgb(87, 63, 63);
+}
+button {
+  border: none;
+  border-radius: 8px;
+  margin-top: 5px;
+  padding: 5px 5px;
+}

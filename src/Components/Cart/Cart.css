@@ -1,0 +1,15 @@
+.car-board {
+  margin-bottom: 10px;
+  border-radius: 12px;
+  background-color: rgb(175, 183, 199);
+  height: 200px;
+}
+
+.car-board :hover {
+  cursor: pointer;
+}
+.details-area {
+  background-color: rgba(156, 147, 158, 0.822);
+  border-radius: 8px;
+  color: white;
+}

@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "name": "Bike",
+    "image": "https://i.pinimg.com/originals/4b/6f/9f/4b6f9f4e07b1ec60a3ee871f1d7a8e4c.png",
+    "price": "$25"
+  },
+  {
+    "id": 2,
+    "name": "Bike",
+    "image": "https://i.pinimg.com/originals/4b/6f/9f/4b6f9f4e07b1ec60a3ee871f1d7a8e4c.png",
+    "price": "$15"
+  },
+  {
+    "id": 3,
+    "name": "Bike",
+    "image": "https://i.pinimg.com/originals/4b/6f/9f/4b6f9f4e07b1ec60a3ee871f1d7a8e4c.png",
+    "price": "$13"
+  },
+
+  {
+    "id": 4,
+    "name": "Car",
+    "image": "https://freepngimg.com/thumb/car/3-2-car-free-download-png.png",
+    "price": "$28"
+  },
+  {
+    "id": 5,
+    "name": "Car",
+    "image": "https://freepngimg.com/thumb/car/3-2-car-free-download-png.png",
+    "price": "$29"
+  },
+  {
+    "id": 6,
+    "name": "Car",
+    "image": "https://freepngimg.com/thumb/car/3-2-car-free-download-png.png",
+    "price": "$20"
+  },
+  {
+    "id": 7,
+    "name": "Bus",
+    "image": "https://pngimg.com/uploads/bus/bus_PNG8618.png",
+    "price": "$50"
+  },
+  {
+    "id": 8,
+    "name": "Bus",
+    "image": "https://pngimg.com/uploads/bus/bus_PNG8618.png",
+    "price": "$55"
+  },
+  {
+    "id": 9,
+    "name": "Bus",
+    "image": "https://pngimg.com/uploads/bus/bus_PNG8618.png",
+    "price": "$70"
+  },
+
+  {
+    "id": 10,
+    "name": "Train",
+    "image": "https://pngimg.com/uploads/trian/trian_PNG16629.png",
+    "price": "$80"
+  },
+  {
+    "id": 11,
+    "name": "Train",
+    "image": "https://pngimg.com/uploads/trian/trian_PNG16629.png",
+    "price": "$80"
+  },
+  {
+    "id": 12,
+    "name": "Train",
+    "image": "https://pngimg.com/uploads/trian/trian_PNG16629.png",
+    "price": "$80"
+  }
+]

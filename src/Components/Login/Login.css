@@ -1,0 +1,42 @@
+.fb-button img {
+  height: 25px;
+  width: auto;
+  margin-right: 5px;
+}
+.fb-button {
+  border: 1 px solid black;
+  margin-top: 10px;
+  border-radius: 8px;
+  padding: 8px 6px;
+  border-color: rgba(0, 0, 255, 0.63);
+}
+.fb-button:hover {
+  background-color: rgba(102, 122, 187, 0.904);
+  color: white;
+}
+.style-form {
+  padding-top: 20px;
+  height: 420px;
+  width: 300px;
+  background-color: white;
+  margin: 0 auto;
+  box-shadow: 5px 10px 6px rgb(53, 34, 34);
+  border-radius: 8px;
+}
+.style-form input {
+  margin-bottom: 10px;
+  padding: 5px;
+  border-radius: 4px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+.style-form p {
+  color: blue;
+}
+.button-submit {
+  background-color: rgb(44, 111, 49);
+  color: white;
+  border: none;
+  border-radius: 8px;
+}
